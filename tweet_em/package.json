@@ -1,0 +1,20 @@
+{
+  "name": "tweet_em",
+  "version": "1.0.0",
+  "description": "chatbot-connector-twitter-em",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shahid",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "sapcai": "^4.1.0",
+    "simple-oauth2": "^4.1.0"
+  }
+}

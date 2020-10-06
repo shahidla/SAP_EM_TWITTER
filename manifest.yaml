@@ -1,0 +1,6 @@
+---
+applications:
+- name: tweet_em
+  random-route: true
+  path: tweet_em
+  memory: 256M
